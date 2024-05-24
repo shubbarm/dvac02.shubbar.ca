@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/static/css/main.be6e7c91.css",
+    "main.js": "/static/js/main.a249d25d.js",
+    "static/js/453.d922f9e0.chunk.js": "/static/js/453.d922f9e0.chunk.js",
+    "static/media/error-audio.mp3": "/static/media/error-audio.0fc233ee00f79e1d9945.mp3",
+    "static/media/yay-audio.mp3": "/static/media/yay-audio.df9f2edf8def2f6773ea.mp3",
+    "index.html": "/index.html",
+    "main.be6e7c91.css.map": "/static/css/main.be6e7c91.css.map",
+    "main.a249d25d.js.map": "/static/js/main.a249d25d.js.map",
+    "453.d922f9e0.chunk.js.map": "/static/js/453.d922f9e0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.be6e7c91.css",
+    "static/js/main.a249d25d.js"
+  ]
+}
